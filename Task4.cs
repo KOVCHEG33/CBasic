@@ -6,7 +6,6 @@
  */
 string log = "";
 string pass = "";
-bool authorized = false;
 for (int i = 0; i > -3; i--)
 {
     Console.WriteLine("Enter LOGIN please.");
